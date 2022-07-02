@@ -1,5 +1,7 @@
 # Jogo da Memória
-
+<p align="center">
+  <img alt="covid-19-pwa" src="github/preview.png" width="100%">
+</p>
 ## 💻 Projeto
 
 Esta aplicação é fruto do Bootcamp TQI Fullstack Developer, bootcamp promovido pela TQI e pela Digital Innovation One. Neste projeto, foi requisitado a construção de um 
